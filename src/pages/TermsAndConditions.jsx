@@ -145,7 +145,7 @@ const TermsandConditions = () => {
                             <div className="card-body p-4">
                                 <h4 className="mb-3 d-flex align-items-center">
                                     <span className="number-badge me-3">10</span>
-                                    Auto-Renewable Subscription Terms
+                                    Auto-Renewable Subscription Terms (For iOS Users)
                                 </h4>
                                 <ul className="list-styled">
                                     <li>Payments for subscriptions will be charged to your Apple ID account upon confirmation of purchase.</li>
@@ -162,12 +162,12 @@ const TermsandConditions = () => {
                             <div className="card-body p-4">
                                 <h4 className="mb-3 d-flex align-items-center">
                                     <span className="number-badge me-3">11</span>
-                                    Subscription Details
+                                    Subscription Details(For launching Plan)
                                 </h4>
                                 <ul className="list-styled">
                                     <li><strong>Subscription Name:</strong> EditEZY Premium</li>
                                     <li><strong>Subscription Type:</strong> Auto-renewing</li>
-                                    <li><strong>Subscription Length:</strong> Monthly / Yearly (depending on plan selected)</li>
+                                    <li><strong>Subscription Length:</strong> Yearly</li>
                                     <li><strong>Subscription Benefits:</strong> Access to premium editing tools, unlimited exports, premium templates, AI tools, and advanced features.</li>
                                     <li><strong>Subscription Price:</strong> Displayed clearly inside the App Store purchase screen before payment.</li>
                                 </ul>
