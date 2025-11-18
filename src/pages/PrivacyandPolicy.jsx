@@ -171,7 +171,7 @@ const PrivacyAndPolicy = () => {
                             <div className="card-body p-4">
                                 <h4 className="mb-3 d-flex align-items-center">
                                     <span className="number-badge me-3">10</span>
-                                    Subscription & Payment Information
+                                    Subscription & Payment Information(For iOS Users)
                                 </h4>
                                 <ul className="list-styled">
                                     <li>We do not process or store your payment information.</li>
