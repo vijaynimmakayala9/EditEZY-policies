@@ -166,6 +166,20 @@ const PrivacyAndPolicy = () => {
                                 </p>
                             </div>
                         </div>
+
+                        <div className="policy-card card border-0 shadow-sm mb-4">
+                            <div className="card-body p-4">
+                                <h4 className="mb-3 d-flex align-items-center">
+                                    <span className="number-badge me-3">10</span>
+                                    Subscription & Payment Information
+                                </h4>
+                                <ul className="list-styled">
+                                    <li>We do not process or store your payment information.</li>
+                                    <li> All payments for auto-renewable subscriptions are securely processed by Apple through your Apple ID account.</li>
+                                    <li> We only receive a confirmation from Apple when your purchase is successful so we can activate your premium features.</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

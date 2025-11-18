@@ -140,6 +140,39 @@ const TermsandConditions = () => {
                                 </div>
                             </div>
                         </div>
+
+                        <div className="terms-card card border-0 shadow-sm mb-4">
+                            <div className="card-body p-4">
+                                <h4 className="mb-3 d-flex align-items-center">
+                                    <span className="number-badge me-3">10</span>
+                                    Auto-Renewable Subscription Terms
+                                </h4>
+                                <ul className="list-styled">
+                                    <li>Payments for subscriptions will be charged to your Apple ID account upon confirmation of purchase.</li>
+                                    <li>Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the current period ends.</li>
+                                    <li>Your account will be charged for renewal within 24 hours before the end of the current subscription period.</li>
+                                    <li>You can manage or cancel your subscription at any time by going to your Account Settings on the App Store after purchase.</li>
+                                    <li>If you cancel, your subscription will continue until the end of the current billing period.</li>
+                                    <li>Removing the app does not automatically cancel your subscription.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="terms-card card border-0 shadow-sm mb-4">
+                            <div className="card-body p-4">
+                                <h4 className="mb-3 d-flex align-items-center">
+                                    <span className="number-badge me-3">11</span>
+                                    Subscription Details
+                                </h4>
+                                <ul className="list-styled">
+                                    <li><strong>Subscription Name:</strong> EditEZY Premium</li>
+                                    <li><strong>Subscription Type:</strong> Auto-renewing</li>
+                                    <li><strong>Subscription Length:</strong> Monthly / Yearly (depending on plan selected)</li>
+                                    <li><strong>Subscription Benefits:</strong> Access to premium editing tools, unlimited exports, premium templates, AI tools, and advanced features.</li>
+                                    <li><strong>Subscription Price:</strong> Displayed clearly inside the App Store purchase screen before payment.</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
