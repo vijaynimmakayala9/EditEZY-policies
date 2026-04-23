@@ -55,7 +55,7 @@ const CancellationRefundPolicy = () => {
           transaction details and the reason for your request:
         </p>
         <ul>
-          <li>Email: <a href="mailto:info.editezy@gmail.com">info.editezy@gmail.com</a></li>
+          <li>Email: <a href="mailto:editezy.contact@gmail.com">editezy.contact@gmail.com</a></li>
           <li>Subject: <em>Refund Request – EditEZY</em></li>
         </ul>
       </section>
@@ -76,8 +76,9 @@ const CancellationRefundPolicy = () => {
           For any questions or concerns regarding our Cancellation & Refund Policy, please contact us:
         </p>
         <ul>
-          <li>Email: <a href="mailto:info.editezy@gmail.com">info.editezy@gmail.com</a></li>
+          <li>Email: <a href="mailto:editezy.contact@gmail.com">editezy.contact@gmail.com</a></li>
           <li>Website: <a href="https://editezy.com" target="_blank" rel="noopener noreferrer">https://editezy.com</a></li>
+          <li>Mobile: <a href="tel:+919182971816">+91 9182971816</a></li>
         </ul>
       </section>
 

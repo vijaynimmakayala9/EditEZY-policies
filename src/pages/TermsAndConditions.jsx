@@ -126,16 +126,27 @@ const TermsandConditions = () => {
                                 </h4>
                                 <div className="mt-3 p-3 bg-light rounded">
                                     <p className="mb-0">
-                                        For questions or clarifications, contact us at:{" "}
+                                        For questions or clarifications, contact us at:{" "}<br />
+                                        <strong>Email:</strong>{" "}
                                         <a
-                                            href="https://mail.google.com/mail/?view=cm&fs=1&to=info.editezy@gmail.com&su=Hello&body=I%20would%20like%20to%20connect"
+                                            href="https://mail.google.com/mail/?view=cm&fs=1&to=editezy.contact@gmail.com&su=Hello&body=I%20would%20like%20to%20connect"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="fw-semibold text-decoration-none"
                                         >
-                                            info.editezy@gmail.com
+                                            editezy.contact@gmail.com
                                         </a>
 
+                                    </p>
+                                    <p><strong>Mobile:</strong>
+                                        <a
+                                            href="tel:+919182971816"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="fw-semibold text-decoration-none"
+                                        >
+                                            +91 9182971816
+                                        </a>
                                     </p>
                                 </div>
                             </div>
