@@ -106,7 +106,7 @@ const PrivacyAndPolicy = () => {
                                         </a>
 
                                     </p>
-                                    <p><strong>Mobile:</strong>
+                                    {/* <p><strong>Mobile:</strong>
                                         <a
                                             href="tel:+919182971816"
                                             target="_blank"
@@ -115,7 +115,7 @@ const PrivacyAndPolicy = () => {
                                         >
                                             +91 9182971816
                                         </a>
-                                    </p>
+                                    </p> */}
                                 </div>
                             </div>
                         </div>

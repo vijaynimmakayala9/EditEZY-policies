@@ -78,7 +78,7 @@ const CancellationRefundPolicy = () => {
         <ul>
           <li>Email: <a href="mailto:editezy.contact@gmail.com">editezy.contact@gmail.com</a></li>
           <li>Website: <a href="https://editezy.com" target="_blank" rel="noopener noreferrer">https://editezy.com</a></li>
-          <li>Mobile: <a href="tel:+919182971816">+91 9182971816</a></li>
+          {/* <li>Mobile: <a href="tel:+919182971816">+91 9182971816</a></li> */}
         </ul>
       </section>
 
